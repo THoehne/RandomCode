@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="DamenProblem.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="39"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="442"/>
+        <CursorPos Y="469"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ungrid.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmGrid"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="39"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="4" Y="28"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\typshrdh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="20" Y="119"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="124"/>
+        <CursorPos Y="152"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1111"/>
+        <CursorPos X="25" Y="1135"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\currh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1504"/>
+        <CursorPos X="15" Y="1530"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="28"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="91"/>
+        <CursorPos X="10" Y="119"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="444" Column="26" TopLine="398"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="445" Column="42" TopLine="399"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="441" Column="46" TopLine="398"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="448" Column="36" TopLine="412"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="460" Column="52" TopLine="415"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="455" Column="31" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="458" Column="5" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="447" Column="7" TopLine="425"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="467" Column="31" TopLine="433"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="442" Column="45" TopLine="427"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="481" Column="42" TopLine="436"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="73" Column="5" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="293" Column="45" TopLine="236"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="294" Column="12" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="291" Column="38" TopLine="272"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="492" Column="67" TopLine="457"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="39" Column="53" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="40" Column="30" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="495" Column="22" TopLine="457"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="343" Column="40" TopLine="304"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="309" Column="43" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="43" Column="14" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="146" Column="35" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="124" Column="25" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="259" Column="45" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="150" Column="36" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="151" Column="6" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="149" Column="47" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="142"/>
+      </Position>
+      <Position>
+        <Filename Value="unmain.pas"/>
+        <Caret Line="141" TopLine="87"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

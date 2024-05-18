@@ -1,0 +1,9 @@
+object frmGrid: TfrmGrid
+  Left = 1229
+  Height = 588
+  Top = 254
+  Width = 1015
+  Caption = 'frmGrid'
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+end
